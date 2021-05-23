@@ -1,4 +1,5 @@
-# This repository contains python implementation of 3D reconstruction from single image by finding the depth map of this image
+# 3D scene reconstruction from single image by calculating a depth map from the image using CNN+Residual+Fine network
+This repository contains python implementation of 3D reconstruction from single image by finding the depth map of this image
 Inspired by the following papers:
 * [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://arxiv.org/pdf/1406.2283.pdf) by Eigen et al., NIPS 2014
 * [Depth Estimation from Single Image Using CNN-Residual Network](http://cs231n.stanford.edu/reports/2017/pdfs/203.pdf)
